@@ -1,14 +1,6 @@
 # Blockchain wallet
 ```
 
-Example of integration:
- * Web3Modal,
- * MetaMask,
- * WalletConnect
-in React.js DApp.
+Project based off a Web3modal library.
 
-
-
-```
-
-# Blockchain-Wallet
+Imported Wallet Connect so that users can sign trasactions from mobile.
